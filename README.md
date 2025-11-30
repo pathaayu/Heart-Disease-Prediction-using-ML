@@ -7,7 +7,7 @@ It’s structured to highlight your skills, data, models, and results—perfect 
 ````markdown
 # Heart Disease Prediction Using Machine Learning in Python
 
-![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0.24-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
