@@ -2,17 +2,6 @@
 Here is a polished, professional **README.md** for your **Heart Diseases Prediction Project** based on the info you provided.
 It’s structured to highlight your skills, data, models, and results—perfect for a GitHub portfolio!
 
----
-
-````markdown
-# Heart Disease Prediction Using Machine Learning in Python
-
-![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0.24-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
----
-
 ## Project Overview
 
 This project aims to predict the presence of heart disease using supervised machine learning techniques applied to health and lifestyle data.  
@@ -121,22 +110,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## Contact
 
 Created by **Aayushi Pathak** — pathakaayushi1@gmail.com
-LinkedIn: 
-GitHub: [github.com/yourusername](https://github.com/yourusername)
-
----
-
-*Feel free to reach out for collaboration or questions!*
-
-```
-
----
-
-If you want, I can also help with:  
-- A requirements.txt file  
-- Example notebook templates  
-- Adding badges or GIFs to README  
-- Detailed project folder structure  
-
-Just ask!
-```
+LinkedIn: https://www.linkedin.com/in/aayushi-pathak-26221b150/
+GitHub: https://github.com/pathaayu/Heart-Disease-Prediction-using-ML/edit/main/
